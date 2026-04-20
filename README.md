@@ -1,7 +1,5 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jiho Yoo.
 
-## Data Science Master's Student at Vanderbilt University
-
 I am a Data Science Master's student at Vanderbilt University with a strong interest in Machine Learning, Deep Learning, and Generative AI — and particularly in how these methods can drive meaningful impact in **Biostatistics** and **Quantitative Finance**.
 
 On the research side, I am currently working with a professor at Vanderbilt on biostatistics research, applying statistical and computational methods to real-world biological and clinical data problems. On the finance side, I am deeply interested in the algorithmic foundations of quantitative finance, from time-series forecasting and factor modeling to algorithmic trading strategies and risk modeling.
