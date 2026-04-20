@@ -4,9 +4,9 @@
 
 I am a Data Science Master's student at Vanderbilt University with a strong interest in Machine Learning, Deep Learning, and Generative AI — and particularly in how these methods can drive meaningful impact in **Biostatistics** and **Quantitative Finance**.
 
-On the research side, I am currently working with a professor at Vanderbilt on biostatistics research, applying statistical and computational methods to real-world biological and clinical data problems. On the finance side, I am deeply interested in the algorithmic foundations of quantitative finance — from time-series forecasting and factor modeling to algorithmic trading strategies and risk modeling.
+On the research side, I am currently working with a professor at Vanderbilt on biostatistics research, applying statistical and computational methods to real-world biological and clinical data problems. On the finance side, I am deeply interested in the algorithmic foundations of quantitative finance, from time-series forecasting and factor modeling to algorithmic trading strategies and risk modeling.
 
-I enjoy building end-to-end pipelines that bridge rigorous statistical theory with modern ML tools, and I'm always looking for problems at the intersection of data, science, and real-world application.
+I enjoy building models that bridge between rigorous statistical theory and modern ML tools, and I'm always looking for problems at the intersection of data, science, and real-world applications.
 
 ---
 
